@@ -25,6 +25,6 @@ export const Container = styled.div`
   }
 `
 export const Cores = {
-  corPrincipal: '#979495',
+  corPrincipal: '#a7727d',
   corSecundaria: '#f9f5e7'
 }

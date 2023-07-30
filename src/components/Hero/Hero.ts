@@ -9,6 +9,7 @@ export const Form = styled.form`
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
 
   @media (max-width: 768px) {
     height: auto;
@@ -34,7 +35,6 @@ export const Div = styled.div`
 export const HeroTitle = styled.h2`
   font-family: Gloock, serif;
   font-size: 48px;
-
   @media (max-width: 768px) {
     font-size: 32px;
   }
